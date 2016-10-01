@@ -1,6 +1,9 @@
-# Udacity iOS Developer Nanodegree
 
+# Udacity iOS Developer Nanodegree
 ![logo](https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd003.png)
+
+
+**Technical**
 
 All projects were developed using Xcode 7.3.1 (Swift 2.2)
 
