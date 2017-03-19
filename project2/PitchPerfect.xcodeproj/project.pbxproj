@@ -199,13 +199,16 @@
 				TargetAttributes = {
 					3EA451DA1CBC89F700F583AE = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 					};
 					3EA451EE1CBC89F800F583AE = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 						TestTargetID = 3EA451DA1CBC89F700F583AE;
 					};
 					3EA451F91CBC89F800F583AE = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0820;
 						TestTargetID = 3EA451DA1CBC89F700F583AE;
 					};
 				};
@@ -413,6 +416,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ezefranca.PitchPerfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -424,6 +428,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ezefranca.PitchPerfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -435,6 +440,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mikeisaacs.PitchPerfectTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PitchPerfect.app/PitchPerfect";
 			};
 			name = Debug;
@@ -447,6 +453,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mikeisaacs.PitchPerfectTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PitchPerfect.app/PitchPerfect";
 			};
 			name = Release;
@@ -458,6 +465,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mikeisaacs.PitchPerfectUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = PitchPerfect;
 			};
 			name = Debug;
@@ -469,6 +477,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mikeisaacs.PitchPerfectUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = PitchPerfect;
 			};
 			name = Release;
